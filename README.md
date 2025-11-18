@@ -324,8 +324,8 @@ After completing this project, you will understand:
 ##  Project Structure
 
 ```
-NLP-Text-Processing-Pipeline/
-├── NLP-Text-Preprocessing-Pipeline.ipynb
+NLP-Text-Processing/
+├── NLP-Text-Preprocessing.ipynb
 ├── huckleberry_finn.txt               
 └── README.md                           
 ```
